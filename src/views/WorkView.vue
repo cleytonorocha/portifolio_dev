@@ -25,22 +25,22 @@ export default {
         return {
             projects: [
                 {
-                    title: "Hospital ERP System - Saúde Agora",
-                    year: "2025",
-                    category: "Full-Stack Java/Vue",
-                    description:
-                        "ERP system for hospital and clinical management. Development of medical scheduling modules, reception, electronic health records and TUSS/TISS procedure coding. Integration with RESTful APIs, JasperReports and Docker containerization.",
-                    imageSrc: "img1",
-                    projectLink: "https://saudeagora.com.br",
-                },
-                {
                     title: "Integration System - eSocial MG",
-                    year: "2024-2025",
+                    year: "2025",
                     category: "Backend Java",
                     description:
                         "Asynchronous messaging integration platform between state and federal systems. Implementation of retry strategies, idempotency and consistency in distributed flows. Failure handling and guarantee of critical message delivery.",
                     imageSrc: "img2",
                     projectLink: "https://www.mg.gov.br",
+                },
+                {
+                    title: "Hospital ERP System - Saúde Agora",
+                    year: "2024-2025",
+                    category: "Full-Stack Java/Vue",
+                    description:
+                        "ERP system for hospital and clinical management. Development of medical scheduling modules, reception, electronic health records and TUSS/TISS procedure coding. Integration with RESTful APIs, JasperReports and Docker containerization.",
+                    imageSrc: "img1",
+                    projectLink: "https://saudeagora.com.br",
                 },
                 {
                     title: "Python Automations - Brazilian Air Force",

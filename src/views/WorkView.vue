@@ -25,40 +25,40 @@ export default {
         return {
             projects: [
                 {
-                    title: "Sales Dashboard",
-                    year: "2021",
-                    category: "Dashboard",
+                    title: "Hospital ERP System - Saúde Agora",
+                    year: "2025",
+                    category: "Full-Stack Java/Vue",
                     description:
-                        "A comprehensive sales dashboard providing real-time insights into sales performance, trends, and forecasts.",
+                        "ERP system for hospital and clinical management. Development of medical scheduling modules, reception, electronic health records and TUSS/TISS procedure coding. Integration with RESTful APIs, JasperReports and Docker containerization.",
                     imageSrc: "img1",
-                    projectLink: "https://www.example.com/sales-dashboard",
+                    projectLink: "https://saudeagora.com.br",
                 },
                 {
-                    title: "Corporate Website",
-                    year: "2021",
-                    category: "Website",
+                    title: "Integration System - eSocial MG",
+                    year: "2024-2025",
+                    category: "Backend Java",
                     description:
-                        "A modern and responsive corporate website designed to enhance the company's online presence and engagement.",
+                        "Asynchronous messaging integration platform between state and federal systems. Implementation of retry strategies, idempotency and consistency in distributed flows. Failure handling and guarantee of critical message delivery.",
                     imageSrc: "img2",
-                    projectLink: "https://www.example.com/corporate-website",
+                    projectLink: "https://www.mg.gov.br",
                 },
                 {
-                    title: "Fitness Tracker App",
-                    year: "2021",
-                    category: "Mobile",
+                    title: "Python Automations - Brazilian Air Force",
+                    year: "2023-2024",
+                    category: "Automation",
                     description:
-                        "A mobile application that helps users track their fitness activities, set goals, and monitor progress.",
+                        "Development of automations with Python and Selenium for document classification. Tools for data extraction and batch processing. Integration with internal systems for administrative process optimization.",
                     imageSrc: "img3",
-                    projectLink: "https://www.example.com/fitness-tracker-app",
+                    projectLink: "#",
                 },
                 {
-                        title: "Financial Analysis Sheets",
-                        year: "2021",
-                        category: "Sheets",
+                        title: "Internal Portal GSD-LS",
+                        year: "2022-2023",
+                        category: "Backend Java",
                         description:
-                                "A set of financial analysis sheets to help businesses track and analyze their financial performance.",
+                                "Web application developed in Java with Spring Framework for the internal website of the Security and Defense Group of Lagoa Santa. Personnel control dashboards, data management and operational reports.",
                         imageSrc: "img4",
-                        projectLink: "https://www.example.com/financial-analysis-sheets",
+                        projectLink: "#",
                 }
             ],
         };

@@ -1,5 +1,5 @@
 <template>
-    <a :href="project.projectLink" target="_blank" class="text-decoration-none py-4">
+    <div class="text-decoration-none py-4">
       <div class="card border-0 shadow-sm p-4 d-flex flex-lg-row flex-column align-items-center w-100">
         <div class="col-lg-5 col-12">
           <img
@@ -17,7 +17,7 @@
           <p class="mt-3 text-secondary text-start fs-5">{{ project.description }}</p>
         </div>
       </div>
-    </a>
+    </div>
   </template>
   
   <script>
